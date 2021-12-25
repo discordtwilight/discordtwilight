@@ -5,7 +5,7 @@
 
 - I’m looking to collaborate on my discord bot.
 
-- I am active on (CustomName)[**discord.gg/customname] discord server.**
+- I am active on [CustomName](**discord.gg/customname**) discord server.
 
 <h3 align="left">YouTube</h3>
 <p align="left">
